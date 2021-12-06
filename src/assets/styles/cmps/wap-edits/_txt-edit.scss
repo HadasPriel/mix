@@ -1,0 +1,20 @@
+.txt-edit {
+    position: fixed;
+    top: 150px;
+    padding: 10px;
+    display: flex;
+
+    .btn {
+        border-radius: 2em;
+        border: none;
+        // padding: ;
+        font-size: 14px;
+        min-width: 32px;
+        cursor: pointer;
+        background: #fff;
+        box-shadow: 0 1px 18px 0 rgba(0, 0, 0, 0.08), 0 6px 10px 0 rgba(0, 0, 0, 0.1),
+            0 3px 5px -1px rgba(0, 0, 0, 0.15), 0 0 4px 0 rgba(0, 0, 0, 0.1);
+        display: inline-block;
+        margin: 0 7px 0 0;
+    }
+}

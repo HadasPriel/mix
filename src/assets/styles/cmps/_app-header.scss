@@ -1,0 +1,13 @@
+.app-header {
+    position: sticky;
+    z-index: 2;
+    top: 0;
+    font-weight: 200;
+    background-color: #ffffff;
+    box-shadow: 0 1px 5px 0 rgba(41, 85, 115, 0.21);
+    border: none;
+
+    .header-container {
+        height: 50px;
+    }
+}
